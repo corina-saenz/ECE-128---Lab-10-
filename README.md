@@ -45,8 +45,7 @@ Simulation confirms correct control sequencing and memory behavior.
 4. Use the switches as follows:
   - sw1 → reset
   - sw0 → start
-
-Testing procedure:
+5. Testing procedure:
   - Flip sw1 up → down to reset (LED8 turns OFF).
   - Pulse sw0 up → down to start the multiply operation.
   - After a brief moment:
